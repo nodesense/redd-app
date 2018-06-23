@@ -1,0 +1,9 @@
+{
+    "mongodb": {
+        "url": "mongodb://localhost/productsdb"
+    },
+    "jwt": {
+        "secret": "FG34kgb67aSFlGMs563",
+        "expiresIn": "24h"
+    } 
+}
